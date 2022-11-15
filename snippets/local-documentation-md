@@ -1,0 +1,8 @@
+# Command to run local documentation for rust:
+
+## Description:
+After to runs command available bellow your computer will open a .html file into web navigator
+
+```rust
+rustup doc
+```
