@@ -1,0 +1,1 @@
+B:\2.MAIN\REPOSITORIOS\ GITHUB\rust\rust-official-book-applied\study\chapter_02\guessing_game\target\debug\guessing_game.exe: B:\2.MAIN\REPOSITORIOS\ GITHUB\rust\rust-official-book-applied\study\chapter_02\guessing_game\src\main.rs
